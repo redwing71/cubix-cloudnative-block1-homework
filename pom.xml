@@ -50,12 +50,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<distributionManagement>
-		<snapshotRepository>
-			<id>github</id>
-			<url>https://maven.pkg.github.com/redwing71/cubix-cloudnative-block1-homework</url>
-		</snapshotRepository>
-	</distributionManagement>
-
 </project>
