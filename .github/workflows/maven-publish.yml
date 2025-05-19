@@ -68,5 +68,6 @@ jobs:
       packages: write
 
     steps:
+    - uses: actions/checkout@v4
     - name: Verifying the Docker
       run: ./verify-image.sh
